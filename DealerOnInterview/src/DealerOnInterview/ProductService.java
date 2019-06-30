@@ -3,7 +3,7 @@ package DealerOnInterview;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 
-//product service will have a static API so it will not have to be instantiated and will make the code look cleaner
+//product service will have a static API so it will not have to be instantiated and make the code look cleaner
 public class ProductService 
 {
 	//array list to hold all products as added to order
